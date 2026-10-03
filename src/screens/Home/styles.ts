@@ -16,13 +16,6 @@ export const styles = StyleSheet.create({
   scrollView: {
     flex: 1,
   },
-  topGradient: { 
-    position: 'absolute', 
-    top: 0, 
-    left: 0, 
-    right: 0, 
-    height: 350,
-  },
   scrollContent: {
   },
   emptyProductsText: {

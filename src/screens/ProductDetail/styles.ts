@@ -8,13 +8,6 @@ export const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#FAFAFA',
   },
-  topGradient: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    right: 0,
-    height: 280,
-  },
   scrollContent: {
     paddingBottom: 130,
     paddingHorizontal: 16,

@@ -9,13 +9,6 @@ export const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#F4F4F5',
   },
-  topGradient: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    right: 0,
-    height: 260,
-  },
   scroll: { flex: 1 },
   scrollContent: {
     paddingHorizontal: 16,

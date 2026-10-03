@@ -10,13 +10,6 @@ export const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: COMPANY_COLORS.pageBackground,
   },
-  topGradient: {
-    position: 'absolute',
-    top: 0,
-    left: 0,
-    right: 0,
-    height: 350,
-  },
   scroll: {
     flex: 1,
   },

@@ -13,7 +13,6 @@ import { COMPANY_COLORS } from '../../theme/theme';
 export const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: '#FAFAFA' },
   container: { flex: 1, backgroundColor: '#FAFAFA' },
-  topGradient: { position: 'absolute', top: 0, left: 0, right: 0, height: 350 },
   scrollView: { flex: 1 },
   scrollContent: { flexGrow: 1 },
   searchContainer: {
